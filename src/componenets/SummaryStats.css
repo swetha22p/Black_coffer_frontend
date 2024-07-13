@@ -1,0 +1,27 @@
+/* src/components/TotalCountries.css */
+
+.summary-stats-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .stat-item {
+    text-align: center;
+  }
+  
+  .stat-item h2 {
+    font-size: 24px; /* Increase title font size */
+    color: #bb86fc; /* Title color */
+  }
+  
+  .stat-item p {
+    font-size: 36px; /* Increase count font size */
+    color: #fff; /* Count color */
+    margin: 0;
+    color: #bb86fc;
+  }
+  
+  

@@ -1,0 +1,27 @@
+.insights-table-container {
+    width: 100%;
+    margin: 20px auto;
+    border: 1px solid #212121;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #212121;
+    color: #fff;
+  }
+  
+  .table-container {
+    max-height: 440px; /* Adjust max height as needed */
+    overflow: auto;
+  }
+  
+  .insights-table-container a {
+    color: #8a2be2; /* Violet for links */
+  }
+  
+  .insights-table-container th {
+    background-color: #8a2be2; /* Violet for header background */
+  }
+  
+  .insights-table-container td {
+    background-color: #0D47A1; /* Pink for table cells */
+  }
+  

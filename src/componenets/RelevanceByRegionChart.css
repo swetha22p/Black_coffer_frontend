@@ -1,0 +1,26 @@
+/* .relevance-chart-container {
+    width: 600px;
+    height: 450px;
+    
+    border: 1px solid #212121;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   
+    background-color: #212121;
+    right: 0px;
+    top: 0px;
+    position: absolute;
+  }
+   */
+  .relevance-chart-container .recharts-legend-item-text {
+    fill: #8a2be2; /* Violet */
+  }
+  
+  .relevance-chart-container .recharts-tooltip-label {
+    color: #8a2be2; /* Violet */
+  }
+  
+  .relevance-chart-container .recharts-tooltip-item {
+    color: #0D47A1; /* Pink */
+  }
+  

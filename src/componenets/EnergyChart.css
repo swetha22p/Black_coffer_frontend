@@ -1,0 +1,21 @@
+/* .energy-chart-container {
+  width: 600px;
+  height: 300px;
+  margin: 20px auto;
+  border: 1px solid #212121;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #212121;
+  left:0px;
+  top:0px;
+  position: absolute;
+} */
+
+.bar-violet {
+  fill: #8a2be2; /* Violet */
+}
+
+.bar-pink {
+  fill: #0D47A1; /* Pink */
+}

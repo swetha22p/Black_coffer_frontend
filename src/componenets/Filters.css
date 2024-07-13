@@ -1,0 +1,21 @@
+src/components/Filters.css
+
+.filters-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .filters-container label {
+    color: #bb86fc;
+  }
+  
+  .filters-container select {
+    background-color: #3c3c3c;
+    color: #ddd;
+    border: 1px solid #bb86fc;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
